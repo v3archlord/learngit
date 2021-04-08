@@ -1,1 +1,2 @@
 git commit -m <message>
+Changes not staged for commit:
